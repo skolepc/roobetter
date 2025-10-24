@@ -13,9 +13,10 @@ Proxy: SOCKS4 / SOCKS5 / HTTP / HTTPS (IP:PORT) OR (IP:PORT:USER:PASS)
 
 requirements:
 
-2captcha api.
-proxies
-built on python 3.10 windows
+- api.txt needed
+- 2captcha api.
+- proxies
+- python 3.10 windows
 
 Disclaimer
 This tool is intended for ethical and legal use only, such as security research or authorized penetration testing. Unauthorized use or misuse of this tool may violate laws and terms of service. Use responsibly.
